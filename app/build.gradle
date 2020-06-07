@@ -36,4 +36,7 @@ dependencies {
     //firebase
     implementation 'com.google.firebase:firebase-analytics:17.2.2'
     implementation 'com.google.firebase:firebase-database:16.0.4'
+
+    //design
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
 }

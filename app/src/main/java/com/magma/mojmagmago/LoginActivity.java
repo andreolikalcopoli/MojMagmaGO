@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
         etCompanyName = (EditText)findViewById(R.id.eCompanyName);
         etPassword = (EditText)findViewById(R.id.ePassword);
 
-        btnLogin = (Button)findViewById(R.id.btLogin);
+        btnLogin = (Button)findViewById(R.id.btnSignIn);
 
         publicFunctions = new PublicFunctions(LoginActivity.this);
 

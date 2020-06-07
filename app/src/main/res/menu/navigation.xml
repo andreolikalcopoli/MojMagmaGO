@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/accounting"
+        android:title="Ukupno"/>
+
+    <item
+        android:id="@+id/navigation_stats"
+        android:icon="@drawable/month"
+        android:title="Mesecno"/>
+
+    <item
+        android:id="@+id/leaderboard"
+        android:icon="@drawable/graphic"
+        android:title="Grafik"/>
+</menu>
