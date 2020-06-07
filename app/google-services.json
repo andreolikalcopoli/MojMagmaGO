@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "811353275024",
+    "firebase_url": "https://testtaxi-7c684.firebaseio.com",
+    "project_id": "testtaxi-7c684",
+    "storage_bucket": "testtaxi-7c684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811353275024:android:3b212b32a02849f5c83615",
+        "android_client_info": {
+          "package_name": "com.magma.magmataxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811353275024-7cgvdj9r59j46i93fdn4q93rgqna38fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magma.magmataxi",
+            "certificate_hash": "e4242dc91940abf7dca5ba0c1e43f6c90058ff28"
+          }
+        },
+        {
+          "client_id": "811353275024-j7o3gnrbhvr21inq06j9vn6kbf33e6dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcl3sPO4YhJecTvv9kWYlAqz2csUabvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811353275024-j7o3gnrbhvr21inq06j9vn6kbf33e6dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811353275024:android:73af7fab2d3d554cc83615",
+        "android_client_info": {
+          "package_name": "com.magma.mojmagmago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811353275024-j7o3gnrbhvr21inq06j9vn6kbf33e6dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcl3sPO4YhJecTvv9kWYlAqz2csUabvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811353275024-j7o3gnrbhvr21inq06j9vn6kbf33e6dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
